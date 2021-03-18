@@ -2,7 +2,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nermiin&theme=react&show_icons=true&count_private=true)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?nermiin" frameborder="0"></iframe>
 
 
 <!--
