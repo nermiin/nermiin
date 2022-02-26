@@ -6,9 +6,8 @@
 
 
 
-- 🔭 I’m currently working on [Ticket Sales System Based on ASP.NET CORE and Microservice architecture](https://github.com/nermiin/TicketSales_Microservices)
 
-- 🌱 I’m currently learning **ASP.NET Core , Microservice Architecture**
+- 🌱 I’m currently learning **Golang and Blockchain**
 
 - 📫 How to reach me **nermin.kaya.sau@gmail.com**
 
