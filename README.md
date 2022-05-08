@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Golang, Blockchain and Nats.**
+- 🌱 I’m currently learning **Blockchain, Solidity and Ethereum Blockchain **
 
 - 📫 How to reach me **nermin.kaya.sau@gmail.com**
 
