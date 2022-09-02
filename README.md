@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nermin</h1>
-<h3 align="center">A Backend Developer - Go Developer</h3>
+<h3 align="center">A Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nermiin&label=Profile%20views&color=0e75b6&style=flat" alt="nermiin" /> </p>
 
-- 🔭 I’m currently working on **YUEX Crypto Exchange Platform**
+- 🔭 I’m currently working on **Navlungo Fulfillment Project**
 
-- 🌱 I’m currently learning **Ethereum Blockchain and Solidity**
+- 🌱 I’m currently learning **(DDD) Domain Driven Design & CQRS Pattern & Clean Arcitecture**
 
 - 📫 How to reach me **nermin.kaya.sau@gmail.com**
 
