@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
