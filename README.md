@@ -11,10 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
 
-<figure><embed src="https://wakatime.com/share/@7faf888f-f988-4b64-84aa-3f88c1771b61/7571cf3d-0db9-4e9c-899d-77060613c4e1.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@7faf888f-f988-4b64-84aa-3f88c1771b61/7571cf3d-0db9-4e9c-899d-77060613c4e1.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
