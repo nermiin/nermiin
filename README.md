@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
 
+<br> 
+<br> 
 
 <!--START_SECTION:waka-->
 
