@@ -14,6 +14,7 @@
 <br> 
 <br> 
 
+## 📊 Weekly Stats
 <!--START_SECTION:waka-->
 
 ```text
