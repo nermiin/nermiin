@@ -12,6 +12,16 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
 
 <br> 
+
+## 📊 Weekly Stats
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 <br> 
 
 <h3 align="left">Languages and Tools:</h3>
