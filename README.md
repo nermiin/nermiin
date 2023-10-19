@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nermin</h1>
-<h3 align="center">A Backend Developer</h3>
+<h3 align="center">A Backend Developer specializing in .NET, Go, and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nermiin&label=Profile%20views&color=0e75b6&style=flat" alt="nermiin" /> </p>
 
+🤔 **About Me**
+- 👨‍💻 I'm passionate about leveraging technology to solve real-world problems.
+- 🌱 Currently learning more about blockchain and AI-driven technologies.
+- 🤝 Open for collaborations in deep tech.
+- 🎓 Graduated with a degree in Computer Science.
+- 🎬 In my free time, I enjoy watching movies and letting my imagination run wild.
 
-- 📫 How to reach me **nermin.kaya.sau@gmail.com**
+🔭 **Current Project**
+- Working on a decentralized, AI-driven identity verification system that leverages Blockchain, AI, and Cybersecurity technologies.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
-
+📫 **How to Reach Me**
+- Email: **nermin.kaya.sau@gmail.com**
+- LinkedIn: [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
