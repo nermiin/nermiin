@@ -5,14 +5,9 @@
 
 🤔 **About Me**
 - 👨‍💻 I'm passionate about leveraging technology to solve real-world problems.
-- 🌱 Currently learning more about blockchain and AI-driven technologies.
 - 🤝 Open for collaborations in deep tech.
 - 🎓 Graduated with a degree in Computer Science.
 - 🎬 In my free time, I enjoy watching movies and letting my imagination run wild.
-
-🔭 **Current Project**
-- Working on a decentralized, AI-driven identity verification system that leverages Blockchain, AI, and Cybersecurity technologies. This project serves as a personal challenge to merge all the technologies I know into one unified, valuable solution.
-This makes it clear that the project is not just a work endeavor but also a personal challenge for skill enhancement.
 
 📫 **How to Reach Me**
 - Email: **nermin.kaya.sau@gmail.com**
