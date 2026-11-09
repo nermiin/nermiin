@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nermin</h1>
-<h3 align="center">A Backend Developer specializing in .NET</h3>
+<h3 align="center">Technical Business Analyst and Backend Developer in financial systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nermiin&label=Profile%20views&color=0e75b6&style=flat" alt="nermiin" /> </p>
 
-🤔 **About Me**
-- 👨‍💻 I'm passionate about leveraging technology to solve real-world problems.
-- 🤝 Open for collaborations in deep tech.
-- 🎓 Graduated with a degree in Computer Science.
-- 🎬 In my free time, I enjoy watching movies and letting my imagination run wild.
+I turn policy and business rules into clear requirements, and build backend services with .NET.
 
-📫 **How to Reach Me**
+**What I work on**
+- **Payments:** POS and card flows, authorization, clearing, settlement
+- **Lending:** origination, underwriting, affordability, servicing handoff
+- **Financial crime:** KYC/CDD, transaction monitoring, suspicious activity reporting
+- **Fraud and disputes:** CNP fraud detection, Visa/Mastercard chargebacks
+- **Back office:** nostro/vostro reconciliation, exception management
+
+My analysis portfolio is pinned below.
+
+**Contact**
 - Email: **nermin.kaya.sau@gmail.com**
-- LinkedIn: [https://www.linkedin.com/in/nermin-kaya/](https://www.linkedin.com/in/nermin-kaya/)
+- LinkedIn: [nermin-kaya](https://www.linkedin.com/in/nermin-kaya/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
